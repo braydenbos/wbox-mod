@@ -1,0 +1,8 @@
+{
+  "name": "DiversityCrate",
+  "author": "Nikon & Agriche & Cinericius",
+  "version": "1.1.4",
+  "description": "This mod adds 3 new races: hive, lizards and goblins",
+  "iconPath": "icon.png",
+  "targetGameBuild": 558
+}
